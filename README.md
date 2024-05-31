@@ -63,7 +63,7 @@ Once the contract has been deployed, you can interact with it through various fu
 
 Contributors names and contact info
 
-Elissa Mae Cruz
+Macabudbud lll, Rodrigo B.
 
 
 ## License
